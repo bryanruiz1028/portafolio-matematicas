@@ -1,0 +1,34 @@
+# Archivos generados (binarios grandes)
+**/*.pdf
+**/*.docx
+
+# Caché y estado interno
+.firecrawl/
+.autopilot_estado.json
+autopilot.log
+
+# Metadata de NotebookLM (contiene IDs de sesión)
+**/.meta.json
+config_pitagoras.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+
+# Obsidian (workspace local, no necesario en repo)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Imágenes grandes opcionales (comentar si quieres incluirlas)
+# Imágenes/
