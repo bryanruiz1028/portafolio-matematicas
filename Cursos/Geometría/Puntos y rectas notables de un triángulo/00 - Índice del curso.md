@@ -14,8 +14,8 @@ Cuaderno NotebookLM ID: `ef1abd86-19b1-46d4-b9e7-6c9e75fd9550`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | Rectas notables de un triángulo | Bisectriz, mediana, mediat | ⏳ |
-| 2 | Alturas de un triangulo y ortocentro | Todo tipo de triángul | ⏳ |
+| [[Clase 01 - Rectas y puntos notables de un triángulo|01]] | Rectas notables de un triángulo | Bisectriz, mediana, mediat | ⏳ |
+| [[Clase 02 - Alturas de un triángulo, Ortocentro y la Recta de Euler|02]] | Alturas de un triangulo y ortocentro | Todo tipo de triángul | ⏳ |
 
 ---
 
@@ -23,8 +23,8 @@ Cuaderno NotebookLM ID: `ef1abd86-19b1-46d4-b9e7-6c9e75fd9550`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Rectas y puntos nota]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Alturas de un triáng]] |
 
 ---
 
@@ -32,7 +32,7 @@ Cuaderno NotebookLM ID: `ef1abd86-19b1-46d4-b9e7-6c9e75fd9550`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | — | — |
+| Bloque 1 | Clases 1, 2 | [[📝 Evaluación - Bloque 1 — Rectas notables de un triángulo y Bisectrices de u|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Rectas notables de un triángulo y Bisectrices de u|📋 Planificación]] |
 
 ---
 
@@ -41,10 +41,10 @@ Cuaderno NotebookLM ID: `ef1abd86-19b1-46d4-b9e7-6c9e75fd9550`
 | Métrica | Valor |
 |---------|-------|
 | Clases generadas | 2 / 2 |
-| Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Presentaciones | 1 |
+| Guías de estudio | 2 |
+| Evaluaciones | 1 |
+| Planificaciones | 1 |
 
 ---
 

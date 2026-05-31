@@ -14,8 +14,8 @@ Cuaderno NotebookLM ID: `a5fc1287-6606-4def-bdca-ad3f50c0a5f4`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | Classification of quadrilaterals and characteristics + Paral | ⏳ |
-| 2 | Trapecios clasificación y caracteristicas + Ángulos interior | ⏳ |
+| [[Clase 01 - Clasificación y propiedades de los cuadriláteros|01]] | Classification of quadrilaterals and characteristics + Paral | ⏳ |
+| [[Clase 02 - Trapecios Clasificación, Características y Ángulos Interior|02]] | Trapecios clasificación y caracteristicas + Ángulos interior | ⏳ |
 
 ---
 
@@ -23,8 +23,8 @@ Cuaderno NotebookLM ID: `a5fc1287-6606-4def-bdca-ad3f50c0a5f4`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Clasificación de los]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Trapecios Clasifica]] |
 
 ---
 
@@ -32,7 +32,7 @@ Cuaderno NotebookLM ID: `a5fc1287-6606-4def-bdca-ad3f50c0a5f4`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | — | — |
+| Bloque 1 | Clases 1, 2 | [[📝 Evaluación - Bloque 1 — Classification of quadrilaterals and characteristi|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Classification of quadrilaterals and characteristi|📋 Planificación]] |
 
 ---
 
@@ -41,10 +41,10 @@ Cuaderno NotebookLM ID: `a5fc1287-6606-4def-bdca-ad3f50c0a5f4`
 | Métrica | Valor |
 |---------|-------|
 | Clases generadas | 2 / 2 |
-| Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Presentaciones | 1 |
+| Guías de estudio | 2 |
+| Evaluaciones | 1 |
+| Planificaciones | 1 |
 
 ---
 

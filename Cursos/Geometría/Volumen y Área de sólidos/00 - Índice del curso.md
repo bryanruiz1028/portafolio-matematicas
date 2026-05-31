@@ -14,10 +14,10 @@ Cuaderno NotebookLM ID: `bf264957-edf8-4705-925a-a9839f5a9948`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | Qué es volumen | Matemáticas + Volumen de un cubo + Volume o | ⏳ |
-| 2 | Volumen de un prisma Triangular "equilatero" + Volumen del P | ⏳ |
-| 3 | Volume of a Right Prism | Example 1 + Volume of a Right Pris | ⏳ |
-| 4 | Volume of a Cylinder | Knowing the Area of the Base or the R | ⏳ |
+| [[Clase 01 - Introducción al Volumen Cubos y Prismas Rectangulares|01]] | Qué es volumen | Matemáticas + Volumen de un cubo + Volume o | ⏳ |
+| [[Clase 02 - Volumen del Prisma Triangular Equilátero y Prisma Recto|02]] | Volumen de un prisma Triangular "equilatero" + Volumen del P | ⏳ |
+| [[Clase 03 - Volumen de un Prisma Recto|03]] | Volume of a Right Prism | Example 1 + Volume of a Right Pris | ⏳ |
+| [[Clase 04 - Volumen del Cilindro y la Esfera|04]] | Volume of a Cylinder | Knowing the Area of the Base or the R | ⏳ |
 
 ---
 
@@ -25,10 +25,10 @@ Cuaderno NotebookLM ID: `bf264957-edf8-4705-925a-a9839f5a9948`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
-| Clase 03 | — | — |
-| Clase 04 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 El concepto de volum]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Volumen de un Prisma]] |
+| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — 📖 Guía de estudio — Clase 03 Volumen de un Prisma]] |
+| Clase 04 | — | [[📖 Guía de estudio - Clase 04 — 📖 Guía de estudio — Clase 04 Volumen de un cilind]] |
 
 ---
 
@@ -36,7 +36,7 @@ Cuaderno NotebookLM ID: `bf264957-edf8-4705-925a-a9839f5a9948`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2, 3, 4 | — | — |
+| Bloque 1 | Clases 1, 2, 3, 4 | [[📝 Evaluación - Bloque 1 — Qué es volumen y Volumen de un cubo|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Qué es volumen y Volumen de un cubo|📋 Planificación]] |
 
 ---
 
@@ -45,10 +45,10 @@ Cuaderno NotebookLM ID: `bf264957-edf8-4705-925a-a9839f5a9948`
 | Métrica | Valor |
 |---------|-------|
 | Clases generadas | 4 / 4 |
-| Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Presentaciones | 1 |
+| Guías de estudio | 4 |
+| Evaluaciones | 1 |
+| Planificaciones | 1 |
 
 ---
 

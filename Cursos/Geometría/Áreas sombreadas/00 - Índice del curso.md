@@ -14,9 +14,9 @@ Cuaderno NotebookLM ID: `c754dad0-8f7e-465f-8324-fd45f0fa9aac`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | Shaded Areas Introduction | ⏳ |
-| 2 | Shaded Areas | Example 1 + Shaded Areas | Example 2 + Shaded | ⏳ |
-| 3 | Shaded Areas | Example 4 + Shaded Areas | Example 5 + Shaded | ⏳ |
+| [[Clase 01 - Introducción a las Áreas Sombreadas|01]] | Shaded Areas Introduction | ⏳ |
+| [[Clase 02 - Áreas Sombreadas Rectángulos, Cuadrados y Círculos|02]] | Shaded Areas | Example 1 + Shaded Areas | Example 2 + Shaded | ⏳ |
+| [[Clase 03 - Áreas Sombreadas Suma, Desplazamiento y Resta de Regiones|03]] | Shaded Areas | Example 4 + Shaded Areas | Example 5 + Shaded | ⏳ |
 
 ---
 
@@ -24,9 +24,9 @@ Cuaderno NotebookLM ID: `c754dad0-8f7e-465f-8324-fd45f0fa9aac`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
-| Clase 03 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Introducción a las Á]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Áreas Sombreadas]] |
+| Clase 03 | [[📊 Presentación - Clase 03 — Shaded Areas]] | [[📖 Guía de estudio - Clase 03 — 📖 Guía de estudio — Clase 03 Áreas Sombreadas]] |
 
 ---
 
@@ -34,7 +34,7 @@ Cuaderno NotebookLM ID: `c754dad0-8f7e-465f-8324-fd45f0fa9aac`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2, 3 | — | — |
+| Bloque 1 | Clases 1, 2, 3 | [[📝 Evaluación - Bloque 1 — Shaded Areas Introduction y Shaded Areas|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Shaded Areas Introduction y Shaded Areas|📋 Planificación]] |
 
 ---
 
@@ -43,10 +43,10 @@ Cuaderno NotebookLM ID: `c754dad0-8f7e-465f-8324-fd45f0fa9aac`
 | Métrica | Valor |
 |---------|-------|
 | Clases generadas | 3 / 3 |
-| Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Presentaciones | 2 |
+| Guías de estudio | 3 |
+| Evaluaciones | 1 |
+| Planificaciones | 1 |
 
 ---
 

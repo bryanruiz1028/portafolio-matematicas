@@ -14,8 +14,8 @@ Cuaderno NotebookLM ID: `a32a7b30-8f26-47be-a736-92de86134d80`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | Sistema Sexagesimal | Introducción + Forma compleja e incomp | ⏳ |
-| 2 | Suma de ángulos | Sistema sexagesimal | Grados minutos y seg | ⏳ |
+| [[Clase 01 - Sistema Sexagesimal Fundamentos y Conversiones de Forma|01]] | Sistema Sexagesimal | Introducción + Forma compleja e incomp | ⏳ |
+| [[Clase 02 - Suma, Resta y Multiplicación de Ángulos|02]] | Suma de ángulos | Sistema sexagesimal | Grados minutos y seg | ⏳ |
 
 ---
 
@@ -23,8 +23,8 @@ Cuaderno NotebookLM ID: `a32a7b30-8f26-47be-a736-92de86134d80`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 El Sistema Sexagesim]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Suma de Ángulos en e]] |
 
 ---
 
@@ -32,7 +32,7 @@ Cuaderno NotebookLM ID: `a32a7b30-8f26-47be-a736-92de86134d80`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | — | — |
+| Bloque 1 | Clases 1, 2 | [[📝 Evaluación - Bloque 1 — Sistema Sexagesimal y Forma compleja e incompleja|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Sistema Sexagesimal y Forma compleja e incompleja|📋 Planificación]] |
 
 ---
 
@@ -41,10 +41,10 @@ Cuaderno NotebookLM ID: `a32a7b30-8f26-47be-a736-92de86134d80`
 | Métrica | Valor |
 |---------|-------|
 | Clases generadas | 2 / 2 |
-| Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Presentaciones | 1 |
+| Guías de estudio | 2 |
+| Evaluaciones | 1 |
+| Planificaciones | 1 |
 
 ---
 

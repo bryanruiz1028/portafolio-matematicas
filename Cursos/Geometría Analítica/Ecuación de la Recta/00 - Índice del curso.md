@@ -14,17 +14,17 @@ Cuaderno NotebookLM ID: `7a42aa5d-1b21-4563-a737-6f8438a338c7`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | What is the slope of a line? + Tipos de rectas: Horizontal,  | ⏳ |
-| 2 | Distance between two points graphical method + Distancia ent | ⏳ |
-| 3 | Pendiente de la recta o inclinación de la recta + Pendiente  | ⏳ |
-| 4 | Slope and angle of inclination of the line knowing two point | ⏳ |
-| 5 | To go from the symmetric or intercept form equation to the g | ⏳ |
-| 6 | Ecuación de la recta Punto Pendiente | Ejemplo 1 + Ecuación  | ⏳ |
-| 7 | Equation of a line given 2 points | Example 1 + Ecuación de  | ⏳ |
-| 8 | Parallel and perpendicular lines. Equation of a line. + Posi | ⏳ |
-| 9 | Equation of a line: Point and Perpendicular | Example 1 + Eq | ⏳ |
-| 10 | Distance from a point to a line + Ángulo entre 2 rectas  | E | ⏳ |
-| 11 | Pasar de la ecuación General (Fundamental) a la Ordinaria (p | ⏳ |
+| [[Clase 01 - La pendiente y la distancia entre dos puntos|01]] | What is the slope of a line? + Tipos de rectas: Horizontal,  | ⏳ |
+| [[Clase 02 - Distancia y Punto Medio entre Dos Puntos Métodos y Aplicaci|02]] | Distance between two points graphical method + Distancia ent | ⏳ |
+| [[Clase 03 - Pendiente e inclinación de la recta|03]] | Pendiente de la recta o inclinación de la recta + Pendiente  | ⏳ |
+| [[Clase 04 - Pendiente, ángulo de inclinación y formas de la ecuación de|04]] | Slope and angle of inclination of the line knowing two point | ⏳ |
+| [[Clase 05 - De la Ecuación Simétrica a la General y Métodos de Graficaci|05]] | To go from the symmetric or intercept form equation to the g | ⏳ |
+| [[Clase 06 - Ecuación de la recta Punto Pendiente|06]] | Ecuación de la recta Punto Pendiente | Ejemplo 1 + Ecuación  | ⏳ |
+| [[Clase 07 - Ecuación de la recta dados dos puntos|07]] | Equation of a line given 2 points | Example 1 + Ecuación de  | ⏳ |
+| [[Clase 08 - Rectas paralelas, perpendiculares y posiciones relativas|08]] | Parallel and perpendicular lines. Equation of a line. + Posi | ⏳ |
+| [[Clase 09 - Ecuación de la recta Punto y Perpendicular|09]] | Equation of a line: Point and Perpendicular | Example 1 + Eq | ⏳ |
+| [[Clase 10 - Distancia de un punto a una recta y Ángulo entre dos rectas|10]] | Distance from a point to a line + Angle between 2 lines | Ex | ⏳ |
+| [[Clase 11 - De la Ecuación General a la Ordinaria y Gráficas de la Recta|11]] | Pasar de la ecuación General (Fundamental) a la Ordinaria (p | ⏳ |
 
 ---
 
@@ -32,17 +32,17 @@ Cuaderno NotebookLM ID: `7a42aa5d-1b21-4563-a737-6f8438a338c7`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
-| Clase 03 | — | — |
-| Clase 04 | — | — |
-| Clase 05 | — | — |
-| Clase 06 | — | — |
-| Clase 07 | — | — |
-| Clase 08 | — | — |
-| Clase 09 | — | — |
-| Clase 10 | — | — |
-| Clase 11 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 ¿Qué es la pendiente]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Distancia entre dos]] |
+| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — 📖 Guía de estudio — Clase 03 Pendiente e inclinac]] |
+| Clase 04 | — | [[📖 Guía de estudio - Clase 04 — 📖 Guía de estudio — Clase 04 Pendiente y ángulo d]] |
+| Clase 05 | — | [[📖 Guía de estudio - Clase 05 — 📖 Guía de estudio — Clase 05 De la ecuación simét]] |
+| Clase 06 | — | [[📖 Guía de estudio - Clase 06 — 📖 Guía de estudio — Clase 06 Ecuación de la Recta]] |
+| Clase 07 | — | [[📖 Guía de estudio - Clase 07 — 📖 Guía de estudio — Clase 07 Ecuación de la recta]] |
+| Clase 08 | — | [[📖 Guía de estudio - Clase 08 — 📖 Guía de estudio — Clase 08 Rectas paralelas, pe]] |
+| Clase 09 | — | [[📖 Guía de estudio - Clase 09 — 📖 Guía de estudio — Clase 09 Ecuación de la recta]] |
+| Clase 10 | — | [[📖 Guía de estudio - Clase 10 — 📖 Guía de estudio — Clase 10 Distancia de un punt]] |
+| Clase 11 | — | [[📖 Guía de estudio - Clase 11 — 📖 Guía de estudio — Clase 11 Conversión de la Ecu]] |
 
 ---
 
@@ -50,9 +50,9 @@ Cuaderno NotebookLM ID: `7a42aa5d-1b21-4563-a737-6f8438a338c7`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2, 3 | — | — |
-| Bloque 2 | Clases 4, 5, 6 | — | — |
-| Bloque 3 | Clases 7, 8, 9, 10, 11 | — | — |
+| Bloque 1 | Clases 1, 2, 3 | [[📝 Evaluación - Bloque 1 — What is the slope of a line y Tipos de rectas Ho|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — What is the slope of a line y Tipos de rectas Ho|📋 Planificación]] |
+| Bloque 2 | Clases 4, 5, 6 | [[📝 Evaluación - Bloque 2 — Distance between two points graphical method y Dis|📝 Evaluación]] | [[📋 Planificación - Bloque 2 — Distance between two points graphical method y Dis|📋 Planificación]] |
+| Bloque 3 | Clases 7, 8, 9, 10, 11 | [[📝 Evaluación - Bloque 3 — Distance between two points y Midpoint between two|📝 Evaluación]] | [[📋 Planificación - Bloque 3 — Distance between two points y Midpoint between two|📋 Planificación]] |
 
 ---
 
@@ -62,9 +62,9 @@ Cuaderno NotebookLM ID: `7a42aa5d-1b21-4563-a737-6f8438a338c7`
 |---------|-------|
 | Clases generadas | 11 / 11 |
 | Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Guías de estudio | 11 |
+| Evaluaciones | 3 |
+| Planificaciones | 3 |
 
 ---
 

@@ -27,12 +27,12 @@ Cuaderno NotebookLM ID: `9be2b3b9-1fbb-4317-9d25-8a8706eb0510`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Introducción a los V]] |
-| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Representación gráfi]] |
-| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — 📖 Guía de estudio — Clase 03 Suma de vectores med]] |
-| Clase 04 | — | [[📖 Guía de estudio - Clase 04 — 📖 Guía de estudio — Clase 04 Componentes Rectangu]] |
-| Clase 05 | — | [[📖 Guía de estudio - Clase 05 — 📖 Guía de estudio — Clase 05 Suma de Vectores por]] |
-| Clase 06 | — | [[📖 Guía de estudio - Clase 06 — 📖 Guía de estudio — Clase 06 Multiplicación de un]] |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — Introducción a los Vectores, Magnitud y Componentes]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — Representación gráfica de vectores por componentes, suma y r]] |
+| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — Suma de vectores Método gráfico]] |
+| Clase 04 | — | [[📖 Guía de estudio - Clase 04 — Componentes Rectangulares y Ángulo de un Vector]] |
+| Clase 05 | — | [[📖 Guía de estudio - Clase 05 — Suma de vectores por componentes rectangulares]] |
+| Clase 06 | — | [[📖 Guía de estudio - Clase 06 — Multiplicación por Escalar y Ángulo entre Vectores]] |
 
 ---
 
@@ -40,8 +40,8 @@ Cuaderno NotebookLM ID: `9be2b3b9-1fbb-4317-9d25-8a8706eb0510`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2, 3 | [[📝 Evaluación - Bloque 1 — Vectors Introduction y Magnitude, Norm, or Module|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Vectors Introduction y Magnitude, Norm, or Module|📋 Planificación]] |
-| Bloque 2 | Clases 4, 5, 6 | [[📝 Evaluación - Bloque 2 — Graphical representation of vectors by components|📝 Evaluación]] | [[📋 Planificación - Bloque 2 — Graphical representation of vectors by components|📋 Planificación]] |
+| Bloque 1 | Clases 1, 2, 3 | [[Evaluación - Bloque 1 Introducción a los Vectores Magnitud y Componentes|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Introducción a los Vectores, Magnitud y Componentes|📋 Planificación]] |
+| Bloque 2 | Clases 4, 5, 6 | [[Evaluación - Bloque 2 Multiplicación por Escalar y Ángulo entre Vectores|📝 Evaluación]] | [[📋 Planificación - Bloque 2 — Multiplicación por Escalar y Ángulo entre Vectores|📋 Planificación]] |
 
 ---
 
@@ -50,9 +50,9 @@ Cuaderno NotebookLM ID: `9be2b3b9-1fbb-4317-9d25-8a8706eb0510`
 | Métrica | Valor |
 |---------|-------|
 | Clases generadas | 6 / 6 |
-| Presentaciones | 0 |
+| Presentaciones | 3 |
 | Guías de estudio | 6 |
-| Evaluaciones | 2 |
+| Evaluaciones | 5 |
 | Planificaciones | 2 |
 
 ---

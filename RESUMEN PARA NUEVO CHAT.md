@@ -12,9 +12,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cursos completados | **7 / 28** |
+| Cursos completados | **8 / 28** |
 | Aritmética | Números enteros ✅ · Números decimales ✅ · Fracciones ✅ · Jerarquía ✅ · Notación Científica ✅ · Razones y proporciones ✅ (16 clases · 16 guías · 8 slides · 3 eval · 3 plan) |
-| Álgebra | Suma y resta de expresiones algebraicas ✅ · Solución de ecuaciones ✅ |
+| Álgebra | Suma y resta de expresiones algebraicas ✅ · Solución de ecuaciones ✅ · Caída libre ✅ (4 clases · 4 guías · 2 slides · 1 eval · 1 plan) |
 | Geometría | Teorema de Pitágoras ✅ |
 | Geometría Analítica | Plano Cartesiano ✅ |
 

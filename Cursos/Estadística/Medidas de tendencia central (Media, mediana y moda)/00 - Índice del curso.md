@@ -14,9 +14,9 @@ Cuaderno NotebookLM ID: `726b308e-f207-477e-9fe5-05792963c036`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | Medidas de tendencia central | Media, Mediana y Moda + Measu | ⏳ |
-| 2 | Media, Mediana y Moda | Datos agrupados en intervalos | Ejem | ⏳ |
-| 3 | Interpretar las medidas de tendencia central | Media, Median | ⏳ |
+| [[Clase 01 - Medidas de Tendencia Central Media, Mediana y Moda|01]] | Medidas de tendencia central | Media, Mediana y Moda + Measu | ⏳ |
+| [[Clase 02 - Media, Mediana y Moda|02]] | Media, Mediana y Moda | Datos agrupados en intervalos | Ejem | ⏳ |
+| [[Clase 03 - Interpretar las medidas de tendencia central y datos agrupad|03]] | Interpretar las medidas de tendencia central | Media, Median | ⏳ |
 
 ---
 
@@ -24,9 +24,9 @@ Cuaderno NotebookLM ID: `726b308e-f207-477e-9fe5-05792963c036`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
-| Clase 03 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Medidas de Tendencia]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Medidas de Tendencia]] |
+| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — 📖 Guía de estudio — Clase 03 Interpretación de la]] |
 
 ---
 
@@ -34,7 +34,7 @@ Cuaderno NotebookLM ID: `726b308e-f207-477e-9fe5-05792963c036`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2, 3 | — | — |
+| Bloque 1 | Clases 1, 2, 3 | [[Evaluación - Bloque 1 Medidas de tendencia central y Measures of Central|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Medidas de tendencia central y Measures of Central|📋 Planificación]] |
 
 ---
 
@@ -44,9 +44,9 @@ Cuaderno NotebookLM ID: `726b308e-f207-477e-9fe5-05792963c036`
 |---------|-------|
 | Clases generadas | 3 / 3 |
 | Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Guías de estudio | 3 |
+| Evaluaciones | 2 |
+| Planificaciones | 1 |
 
 ---
 

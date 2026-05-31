@@ -8,10 +8,10 @@ tags: #dashboard #progreso #proyecto
 
 | Métrica | Valor | Porcentaje |
 |---------|-------|-----------|
-| Cursos completados | 7 / 28 | 25.0% |
-| Lecciones completadas | 223 / 481 | 46.4% |
+| Cursos completados | 8 / 28 | 28.6% |
+| Lecciones completadas | 235 / 481 | 48.9% |
 | Cursos Aritmética | 5 / 6 | 83.3% |
-| Cursos Álgebra | 1 / 7 | 14.3% |
+| Cursos Álgebra | 2 / 7 | 28.6% |
 | Cursos Geometría | 1 / 5 | 20.0% |
 | Cursos Geometría Analítica | 1 / 3 | 33.3% |
 
@@ -27,6 +27,7 @@ tags: #dashboard #progreso #proyecto
 - Suma de expresiones algebraicas (Álgebra) — 7 clases
 - Plano Cartesiano (Geometría Analítica) — 4 clases
 - [[Cursos/Aritmética/Razones y proporciones/00 - Índice del curso|Razones y proporciones / Regla de tres]] (Aritmética) — 57 videos → 10 clases curadas + 4 evaluaciones
+- [[Cursos/Álgebra/Caída libre/00 - Índice del curso|Caída libre]] (Álgebra) — 12 videos → 4 clases + 4 guías de estudio + 1 evaluación + 1 planificación + 2 slides
 
 ### ⏳ En progreso
 - (Ninguno)

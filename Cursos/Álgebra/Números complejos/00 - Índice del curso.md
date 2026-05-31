@@ -14,11 +14,11 @@ Cuaderno NotebookLM ID: `c4724b11-8ba7-4cdb-a517-269e11c8aacc`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | What are imaginary numbers? + Powers of i + Addition and Sub | ⏳ |
-| 2 | Multiplication of imaginary numbers + Números complejos + Op | ⏳ |
-| 3 | Addition and subtraction of complex numbers + Addition and S | ⏳ |
-| 4 | Multiplicación de complejos conjugados + Division of complex | ⏳ |
-| 5 | División de números complejos | Ejemplo 1 + Números imaginar | ⏳ |
+| [[Clase 01 - ¿Qué son los números imaginarios + Potencias de $i$ + Suma|01]] | What are imaginary numbers? + Powers of i + Addition and Sub | ⏳ |
+| [[Clase 02 - Multiplicación de números imaginarios, números complejos, op|02]] | Multiplication of imaginary numbers + Números complejos + Op | ⏳ |
+| [[Clase 03 - Suma, Resta y Multiplicación de Números Complejos|03]] | Addition and subtraction of complex numbers + Addition and S | ⏳ |
+| [[Clase 04 - Multiplicación y División de Números Complejos|04]] | Multiplicación de complejos conjugados + Division of complex | ⏳ |
+| [[Clase 05 - División de números complejos y potencias de i|05]] | División de números complejos | Ejemplo 1 + Números imaginar | ⏳ |
 
 ---
 
@@ -26,11 +26,11 @@ Cuaderno NotebookLM ID: `c4724b11-8ba7-4cdb-a517-269e11c8aacc`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
-| Clase 03 | — | — |
-| Clase 04 | — | — |
-| Clase 05 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 ¿Qué son los números]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Multiplicación de nú]] |
+| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — 📖 Guía de estudio — Clase 03 Suma y resta de núme]] |
+| Clase 04 | — | [[📖 Guía de estudio - Clase 04 — 📖 Guía de estudio — Clase 04 Multiplicación de nú]] |
+| Clase 05 | — | [[📖 Guía de estudio - Clase 05 — 📖 Guía de estudio — Clase 05 División de números]] |
 
 ---
 
@@ -38,8 +38,8 @@ Cuaderno NotebookLM ID: `c4724b11-8ba7-4cdb-a517-269e11c8aacc`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | — | — |
-| Bloque 2 | Clases 3, 4, 5 | — | — |
+| Bloque 1 | Clases 1, 2 | [[Evaluación - Bloque 1 What are imaginary numbers y Powers of i|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — What are imaginary numbers y Powers of i|📋 Planificación]] |
+| Bloque 2 | Clases 3, 4, 5 | [[Evaluación - Bloque 2 Addition and Subtraction of Imaginary Numbers y Ad|📝 Evaluación]] | [[📋 Planificación - Bloque 2 — Addition and Subtraction of Imaginary Numbers y Ad|📋 Planificación]] |
 
 ---
 
@@ -49,9 +49,9 @@ Cuaderno NotebookLM ID: `c4724b11-8ba7-4cdb-a517-269e11c8aacc`
 |---------|-------|
 | Clases generadas | 5 / 5 |
 | Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Guías de estudio | 5 |
+| Evaluaciones | 4 |
+| Planificaciones | 2 |
 
 ---
 

@@ -43,15 +43,19 @@ LOG_FILE    = VAULT / "autopilot.log"
 ENV         = {**os.environ, "PYTHONIOENCODING": "utf-8"}
 
 SECCIONES = [
-    # Materias avanzadas OMITIDAS: Trigonometría, Cálculo, Física, Repaso General
-    # Álgebra avanzada también omitida (cursos complejos nivel 🔴9)
-    ("## Aritmética",          "Aritmética"),
-    ("## Álgebra",             "Álgebra"),
-    ("## Geometría",           "Geometría"),
-    ("## Estadística",         "Estadística"),
+    ("## Aritmética",                  "Aritmética"),
+    ("## Álgebra",                     "Álgebra"),
+    ("## Números avanzados",           "Álgebra"),
+    ("## Geometría",                   "Geometría"),
+    ("## Estadística",                 "Estadística"),
+    ("## Geometría Analítica",         "Geometría Analítica"),
+    ("## Trigonometría",               "Trigonometría"),
+    ("## Álgebra avanzada y Análisis", "Álgebra"),
+    ("## Cálculo",                     "Cálculo"),
+    ("## Física",                      "Álgebra"),
+    ("## Repaso General",              "Repaso General"),
 ]
-# "## Álgebra avanzada" detiene el parser antes de procesar esos cursos complejos
-STOP_HEADERS = {"## 🎯", "## ⚠️", "## 📊", "## 🗺️", "## Notas", "## Álgebra avanzada"}
+STOP_HEADERS = {"## 🎯", "## ⚠️", "## 📊", "## 🗺️", "## Notas"}
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -152,14 +156,19 @@ def leer_cursos():
         if m_wiki:
             nombre = m_wiki.group(1).strip()
         else:
-            cols = [c.strip() for c in line.split("|")]
-            if len(cols) >= 3:
-                raw = cols[2].strip().rstrip("\\").strip()
+            cols_temp = [c.strip() for c in line.replace("\\|", "__PIPE__").split("|")]
+            if len(cols_temp) >= 3:
+                raw = cols_temp[2].strip().replace("__PIPE__", "\\|").rstrip("\\").strip()
                 if raw and "[[" not in raw and not raw.startswith("*"):
                     nombre = raw
 
-        cols_nv = [c.strip() for c in line.split("|") if c.strip()]
-        estado  = cols_nv[-1] if cols_nv else ""
+        # Parsear columnas de forma robusta ignorando pipes dentro de wikilinks
+        line_replaced = line.replace("\\|", "__PIPE__")
+        cols = [c.strip().replace("__PIPE__", "\\|") for c in line_replaced.split("|")]
+        if len(cols) >= 6:
+            estado = cols[5]
+        else:
+            estado = ""
 
         if nombre and url:
             cursos.append({"num": num, "nombre": nombre, "url": url,

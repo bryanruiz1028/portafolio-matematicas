@@ -27,12 +27,12 @@ Cuaderno NotebookLM ID: `cdf52aad-9879-4e94-97b4-92dc78f02ae0`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Trazo y elementos de]] |
-| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Gráfica y elementos]] |
-| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — 📖 Guía de estudio — Clase 03 Ecuación estándar de]] |
-| Clase 04 | — | [[📖 Guía de estudio - Clase 04 — 📖 Guía de estudio — Clase 04 Ecuaciones de la Eli]] |
-| Clase 05 | — | [[📖 Guía de estudio - Clase 05 — 📖 Guía de estudio — Clase 05 De la Ecuación Gener]] |
-| Clase 06 | — | [[📖 Guía de estudio - Clase 06 — 📖 Guía de estudio — Clase 06 Gráfica y elementos]] |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — Trazado y elementos de la elipse Ecuación canónica y ordina]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — Gráfica y elementos de la elipse de la ecuación a la gráfic]] |
+| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — Ecuación ordinaria de la elipse Gráfica, Vértices y Focos]] |
+| Clase 04 | — | [[📖 Guía de estudio - Clase 04 — La Elipse Conversión entre Ecuaciones Canónica y General]] |
+| Clase 05 | — | [[📖 Guía de estudio - Clase 05 — Conversión de la ecuación general de la elipse a su forma ca]] |
+| Clase 06 | — | [[📖 Guía de estudio - Clase 06 — Gráfica y elementos de la elipse a partir de su ecuación gen]] |
 
 ---
 
@@ -40,8 +40,8 @@ Cuaderno NotebookLM ID: `cdf52aad-9879-4e94-97b4-92dc78f02ae0`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2, 3 | [[📝 Evaluación - Bloque 1 — Ellipse tracing and elements y Canonical equation|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Ellipse tracing and elements y Canonical equation|📋 Planificación]] |
-| Bloque 2 | Clases 4, 5, 6 | [[📝 Evaluación - Bloque 2 — Gráfica y elementos de la Elipse conociendo la ecu|📝 Evaluación]] | [[📋 Planificación - Bloque 2 — Gráfica y elementos de la Elipse conociendo la ecu|📋 Planificación]] |
+| Bloque 1 | Clases 1, 2, 3 | [[Evaluación - Bloque 1 Trazado y elementos de la elipse Ecuación canónica y ordina|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Trazado y elementos de la elipse Ecuación canónica y ordina|📋 Planificación]] |
+| Bloque 2 | Clases 4, 5, 6 | [[Evaluación - Bloque 2 Gráfica y elementos de la Elipse conociendo la ecu|📝 Evaluación]] | [[📋 Planificación - Bloque 2 — Gráfica y elementos de la Elipse conociendo la ecu|📋 Planificación]] |
 
 ---
 
@@ -50,9 +50,9 @@ Cuaderno NotebookLM ID: `cdf52aad-9879-4e94-97b4-92dc78f02ae0`
 | Métrica | Valor |
 |---------|-------|
 | Clases generadas | 6 / 6 |
-| Presentaciones | 0 |
+| Presentaciones | 3 |
 | Guías de estudio | 6 |
-| Evaluaciones | 2 |
+| Evaluaciones | 4 |
 | Planificaciones | 2 |
 
 ---

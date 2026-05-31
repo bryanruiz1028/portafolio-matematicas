@@ -14,8 +14,8 @@ Cuaderno NotebookLM ID: `1ecc92f9-0e39-4661-96c7-166ea76de1f0`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | What is the Standard Deviation? + Variance and Standard Devi | ⏳ |
-| 2 | Mean Deviation | Introduction + Mean deviation | Data groupe | ⏳ |
+| [[Clase 01 - Varianza, Desviación Estándar y Coeficiente de Variación|01]] | What is the Standard Deviation? + Variance and Standard Devi | ⏳ |
+| [[Clase 02 - Desviación Media|02]] | Mean Deviation | Introduction + Mean deviation | Data groupe | ⏳ |
 
 ---
 
@@ -23,8 +23,8 @@ Cuaderno NotebookLM ID: `1ecc92f9-0e39-4661-96c7-166ea76de1f0`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 ¿Qué es la Desviació]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Desviación Media]] |
 
 ---
 
@@ -32,7 +32,7 @@ Cuaderno NotebookLM ID: `1ecc92f9-0e39-4661-96c7-166ea76de1f0`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | — | — |
+| Bloque 1 | Clases 1, 2 | [[📝 Evaluación - Bloque 1 — What is the Standard Deviation y Variance and Sta|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — What is the Standard Deviation y Variance and Sta|📋 Planificación]] |
 
 ---
 
@@ -42,9 +42,9 @@ Cuaderno NotebookLM ID: `1ecc92f9-0e39-4661-96c7-166ea76de1f0`
 |---------|-------|
 | Clases generadas | 2 / 2 |
 | Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Guías de estudio | 2 |
+| Evaluaciones | 1 |
+| Planificaciones | 1 |
 
 ---
 

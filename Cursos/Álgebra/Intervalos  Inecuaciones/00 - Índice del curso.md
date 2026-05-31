@@ -20,9 +20,10 @@ Cuaderno NotebookLM ID: `af4cb03d-bb49-4571-8ec5-b66e3c8cb68e`
 | [[Clase 04 - Resolución de Inecuaciones Lineales de 3 Miembros|04]] | Solving 3-Membered Linear Inequalities | Example 1 + Solving | ⏳ |
 | [[Clase 05 - Inecuaciones Cuadráticas y Racionales Introducción e Inecua|05]] | Quadratic and Rational Inequalities | Introduction + Quadrat | ⏳ |
 | [[Clase 06 - Inecuaciones Racionales|06]] | Inecuaciones racionales | Ejemplo 1 + Inecuaciones racionale | ⏳ |
-| [[Clase 07 - Inecuaciones Racionales Casos Avanzados y Fracciones Compar|07]] | Rational inequalities | Example 4 + Rational inequalities |  | ⏳ |
-| [[Clase 08 - Inecuaciones con Valor Absoluto|08]] | Absolute Value Inequalities | Introduction Part 1 + Absolute | ⏳ |
-| [[Clase 09 - Inecuaciones con valor absoluto|09]] | Inequalities with absolute value | Introduction part 2 + Ine | ⏳ |
+| [[Clase 07 - Inecuaciones Racionales Casos Avanzados y Fracciones Compar|07]] | Inecuaciones racionales | Ejemplo 5 + Inecuaciones racionale | ⏳ |
+| [[Clase 08 - Inecuaciones con Valor Absoluto|08]] | Rational inequalities | Example 4 + Rational inequalities |  | ⏳ |
+| [[Clase 09 - Inecuaciones con valor absoluto|09]] | Absolute Value Inequalities | Introduction Part 1 + Absolute | ⏳ |
+| [[Clase 10 - Inecuaciones con Valor Absoluto|10]] | Inequalities with absolute value | Introduction part 2 + Ine | ⏳ |
 
 ---
 
@@ -30,15 +31,16 @@ Cuaderno NotebookLM ID: `af4cb03d-bb49-4571-8ec5-b66e3c8cb68e`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Introducción a los I]] |
-| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Unión de Intervalos]] |
-| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — 📖 Guía de estudio — Clase 03 Introducción a las I]] |
-| Clase 04 | — | [[📖 Guía de estudio - Clase 04 — 📖 Guía de estudio — Clase 04 Resolución de inecua]] |
-| Clase 05 | — | [[📖 Guía de estudio - Clase 05 — 📖 Guía de estudio — Clase 05 Inecuaciones Cuadrát]] |
-| Clase 06 | — | [[📖 Guía de estudio - Clase 06 — 📖 Guía de estudio — Clase 06 Inecuaciones Raciona]] |
-| Clase 07 | — | [[📖 Guía de estudio - Clase 07 — 📖 Guía de estudio — Clase 07 Inecuaciones Raciona]] |
-| Clase 08 | — | [[📖 Guía de estudio - Clase 08 — Guía de estudio — Clase 08 Inecuaciones con Valor]] |
-| Clase 09 | [[📊 Presentación - Clase 09 — Inequalities with absolute value]] | [[📖 Guía de estudio - Clase 09 — 📖 Guía de estudio — Clase 09 Inecuaciones con val]] |
+| Clase 01 | [[📊 Presentación - Clase 01 — Intervalos introducción]] | [[📖 Guía de estudio - Clase 01 — Introducción a los Intervalos y su Representación Gráfica]] |
+| Clase 02 | [[📊 Presentación - Clase 02 — Union of intervals]] | [[📖 Guía de estudio - Clase 02 — Operaciones con Intervalos Unión, Intersección, Diferencia]] |
+| Clase 03 | [[📊 Presentación - Clase 03 — Inequalities Introduction]] | [[📖 Guía de estudio - Clase 03 — Introducción a las Inecuaciones y Desigualdades Lineales]] |
+| Clase 04 | [[📊 Presentación - Clase 04 — Solving 3-Membered Linear Inequalities]] | [[📖 Guía de estudio - Clase 04 — Resolución de Inecuaciones Lineales de 3 Miembros]] |
+| Clase 05 | [[📊 Presentación - Clase 05 — Quadratic and Rational Inequalities]] | [[📖 Guía de estudio - Clase 05 — Inecuaciones Cuadráticas y Racionales Introducción e Inecua]] |
+| Clase 06 | [[📊 Presentación - Clase 06 — Inecuaciones racionales]] | [[📖 Guía de estudio - Clase 06 — Inecuaciones Racionales]] |
+| Clase 07 | [[📊 Presentación - Clase 07 — Rational inequalities]] | [[📖 Guía de estudio - Clase 07 — Inecuaciones Racionales Casos Avanzados y Fracciones Compar]] |
+| Clase 08 | [[📊 Presentación - Clase 08 — Absolute Value Inequalities]] | [[📖 Guía de estudio - Clase 08 — Inecuaciones con Valor Absoluto]] |
+| Clase 09 | [[📊 Presentación - Clase 09 — Inecuaciones con valor absoluto]] | [[📖 Guía de estudio - Clase 09 — Inecuaciones con valor absoluto]] |
+| Clase 10 | — | [[📖 Guía de estudio - Clase 10 — 📖 Guía de estudio — Clase 10 Inecuaciones con val]] |
 
 ---
 
@@ -46,8 +48,9 @@ Cuaderno NotebookLM ID: `af4cb03d-bb49-4571-8ec5-b66e3c8cb68e`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2, 3, 4 | [[📝 Evaluación - Bloque 1 — Intervalos introducción y Interval Graphing|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Intervalos introducción y Interval Graphing|📋 Planificación]] |
-| Bloque 2 | Clases 5, 6, 7, 8, 9 | — | [[📋 Planificación - Bloque 2 — Intersection of intervals y Interval complement|📋 Planificación]] |
+| Bloque 1 | Clases 1, 2, 3 | [[Evaluación - Bloque 1 Introducción a los Intervalos y su Representación Gráfica|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Introducción a los Intervalos y su Representación Gráfica|📋 Planificación]] |
+| Bloque 2 | Clases 4, 5, 6 | [[📝 Evaluación - Bloque 2 — Union of intervals y Intersection of intervals|📝 Evaluación]] | [[📋 Planificación - Bloque 2 — Inecuaciones Racionales|📋 Planificación]] |
+| Bloque 3 | Clases 7, 8, 9, 10 | [[📝 Evaluación - Bloque 3 — Interval Difference y Inequalities Introduction|📝 Evaluación]] | [[📋 Planificación - Bloque 3 — Interval Difference y Inequalities Introduction|📋 Planificación]] |
 
 ---
 
@@ -55,11 +58,11 @@ Cuaderno NotebookLM ID: `af4cb03d-bb49-4571-8ec5-b66e3c8cb68e`
 
 | Métrica | Valor |
 |---------|-------|
-| Clases generadas | 9 / 9 |
-| Presentaciones | 3 |
-| Guías de estudio | 9 |
-| Evaluaciones | 1 |
-| Planificaciones | 2 |
+| Clases generadas | 10 / 10 |
+| Presentaciones | 11 |
+| Guías de estudio | 10 |
+| Evaluaciones | 4 |
+| Planificaciones | 3 |
 
 ---
 

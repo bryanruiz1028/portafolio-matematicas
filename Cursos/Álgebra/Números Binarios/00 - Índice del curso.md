@@ -23,8 +23,8 @@ Cuaderno NotebookLM ID: `dec43b83-a4f4-4637-b9cd-0b92d2df421d`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Introducción a los N]] |
-| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Resta de Números Bin]] |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — Introducción al Sistema Binario Conversión y Suma]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — Operaciones Avanzadas con Números Binarios Resta, Multiplic]] |
 
 ---
 
@@ -32,7 +32,7 @@ Cuaderno NotebookLM ID: `dec43b83-a4f4-4637-b9cd-0b92d2df421d`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | [[📝 Evaluación - Bloque 1 — Binary Numbers y Convertir Binario a Decimal|📝 Evaluación]] | — |
+| Bloque 1 | Clases 1, 2 | [[Evaluación - Bloque 1 Introducción al Sistema Binario Conversión y Suma|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Binary Numbers y Convertir Binario a Decimal|📋 Planificación]] |
 
 ---
 
@@ -43,8 +43,8 @@ Cuaderno NotebookLM ID: `dec43b83-a4f4-4637-b9cd-0b92d2df421d`
 | Clases generadas | 2 / 2 |
 | Presentaciones | 0 |
 | Guías de estudio | 2 |
-| Evaluaciones | 1 |
-| Planificaciones | 0 |
+| Evaluaciones | 2 |
+| Planificaciones | 1 |
 
 ---
 

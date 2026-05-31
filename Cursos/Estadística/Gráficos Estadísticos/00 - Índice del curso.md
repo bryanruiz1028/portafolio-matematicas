@@ -14,8 +14,8 @@ Cuaderno NotebookLM ID: `bce91de2-7e82-4ee5-959b-1398f79c6e0b`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | Tipos de gráficos estadísticos + Cómo hacer un gráfico de ba | ⏳ |
-| 2 | Cómo hacer un Gráfico Circular + Box and whisker plot | Boxp | ⏳ |
+| [[Clase 01 - Tipos de gráficos estadísticos y su construcción|01]] | Tipos de gráficos estadísticos + Cómo hacer un gráfico de ba | ⏳ |
+| [[Clase 02 - Gráficos Estadísticos Circulares, Cajas y Bigotes, y Tallos|02]] | Cómo hacer un Gráfico Circular + Box and whisker plot | Boxp | ⏳ |
 
 ---
 
@@ -23,8 +23,8 @@ Cuaderno NotebookLM ID: `bce91de2-7e82-4ee5-959b-1398f79c6e0b`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Tipos de Gráficos Es]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Cómo hacer un Gráfic]] |
 
 ---
 
@@ -32,7 +32,7 @@ Cuaderno NotebookLM ID: `bce91de2-7e82-4ee5-959b-1398f79c6e0b`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | — | — |
+| Bloque 1 | Clases 1, 2 | [[Evaluación - Bloque 1 Tipos de gráficos estadísticos y Cómo hacer un grá|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Tipos de gráficos estadísticos y Cómo hacer un grá|📋 Planificación]] |
 
 ---
 
@@ -42,9 +42,9 @@ Cuaderno NotebookLM ID: `bce91de2-7e82-4ee5-959b-1398f79c6e0b`
 |---------|-------|
 | Clases generadas | 2 / 2 |
 | Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Guías de estudio | 2 |
+| Evaluaciones | 2 |
+| Planificaciones | 1 |
 
 ---
 

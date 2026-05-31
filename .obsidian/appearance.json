@@ -2,7 +2,7 @@
   "enabledCssSnippets": [],
   "cssTheme": "Atom",
   "theme": "moonstone",
-  "baseFontSize": 21,
+  "baseFontSize": 13,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "",
   "textFontFamily": "Franklin Gothic Medium"

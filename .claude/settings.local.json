@@ -33,7 +33,8 @@
       "Bash(Get-Content \"C:\\\\Users\\\\braya\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-braya-OneDrive-Documentos-4-portafolio\\\\569562aa-bce8-4922-9352-10f241f07b36\\\\tasks\\\\b9pfmnwox.output\" -Wait)",
       "Bash(Select-String -Pattern \"✅|❌|⚠️|RATE LIMIT|TODO LISTO|Slides|cursos|rate_limit|RPC|Error|error 429|quota\" --SimpleMatch)",
       "Skill(firecrawl-search)",
-      "Skill(firecrawl-search:*)"
+      "Skill(firecrawl-search:*)",
+      "command(*)"
     ]
   }
 }

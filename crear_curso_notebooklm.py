@@ -96,8 +96,11 @@ def clean_surrogates(s):
 
 def _norm(s):
     """Normaliza string: minúsculas, sin tildes, sin espacios extra."""
-    import unicodedata
-    return unicodedata.normalize("NFD", s.lower().strip()).encode("ascii", "ignore").decode()
+    import unicodedata, re
+    s_clean = unicodedata.normalize("NFD", s.lower().strip()).encode("ascii", "ignore").decode()
+    s_clean = re.sub(r'[\\/*?:"<>|]', ' ', s_clean)
+    s_clean = re.sub(r'\s+', ' ', s_clean)
+    return s_clean.strip()
 
 def resolve_folder_name(parent: Path, name: str) -> str:
     """
@@ -330,6 +333,12 @@ def crear_cuaderno_y_fuentes(nombre_curso, videos, clases, omitidos):
         print(f"  ✅ Cuaderno creado: {nombre_curso}")
         print(f"     ID: {nb_id}")
 
+    # Solo agregar videos que están en alguna clase
+    usados = set()
+    for vids in clases.values():
+        usados.update(vids)
+
+    source_map = {}
     # Si el cuaderno ya existía, intentar cargar source_map desde .meta.json
     _mat = _detectar_materia(nombre_curso)
     _nom = resolve_folder_name(CURSOS_PATH / _mat, sanitize_filename(nombre_curso)) if _mat else sanitize_filename(nombre_curso)
@@ -340,20 +349,22 @@ def crear_cuaderno_y_fuentes(nombre_curso, videos, clases, omitidos):
             if meta.get("nb_id") == nb_id and meta.get("source_map"):
                 source_map = {int(k): v for k, v in meta["source_map"].items()}
                 print(f"  ♻️  source_map cargado desde .meta.json ({len(source_map)} fuentes)")
-                return nb_id, source_map
         except Exception:
             pass
 
+    # Verificar si nos faltan videos en source_map
+    faltantes = usados - set(source_map.keys())
+    if not faltantes:
+        print(f"  ✅ Todas las fuentes ({len(usados)}) ya están en el source_map")
+        return nb_id, source_map
+
+    print(f"  ⚠️  Faltan {len(faltantes)} fuentes por agregar al source_map...")
+
     separador("AGREGANDO VIDEOS COMO FUENTES")
 
-    # Solo agregar videos que están en alguna clase
-    usados = set()
-    for vids in clases.values():
-        usados.update(vids)
-
-    source_map = {}  # video_num → source_id
+    # Agregar videos faltantes
     for v in videos:
-        if v["num"] in usados:
+        if v["num"] in faltantes:
             safe_title = clean_surrogates(v['title'])
             print(f"  Agregando video {v['num']}: {safe_title[:50]}...")
             result = nlm("source", "add", "--notebook", nb_id, v["url"], "--json")

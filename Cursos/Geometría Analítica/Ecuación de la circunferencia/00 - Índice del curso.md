@@ -14,8 +14,8 @@ Cuaderno NotebookLM ID: `d8e3eb5b-6b2b-400d-9f3d-c48033eacd11`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | Conceptos básicos ecuación de la CIRCUNFERENCIA + Ecuación c | ⏳ |
-| 2 | Centro y radio de la Circunferencia conociendo la ecuación g | ⏳ |
+| [[Clase 01 - La Circunferencia Conceptos Básicos, Ecuación Canónica y Ge|01]] | Conceptos básicos ecuación de la CIRCUNFERENCIA + Ecuación c | ⏳ |
+| [[Clase 02 - Ecuación de la Circunferencia Centro, Radio y Formas Genera|02]] | Centro y radio de la Circunferencia conociendo la ecuación g | ⏳ |
 
 ---
 
@@ -23,8 +23,8 @@ Cuaderno NotebookLM ID: `d8e3eb5b-6b2b-400d-9f3d-c48033eacd11`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Conceptos básicos y]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Centro y radio de la]] |
 
 ---
 
@@ -32,7 +32,7 @@ Cuaderno NotebookLM ID: `d8e3eb5b-6b2b-400d-9f3d-c48033eacd11`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | — | — |
+| Bloque 1 | Clases 1, 2 | [[📝 Evaluación - Bloque 1 — Conceptos básicos ecuación de la CIRCUNFERENCIA y|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Conceptos básicos ecuación de la CIRCUNFERENCIA y|📋 Planificación]] |
 
 ---
 
@@ -42,9 +42,9 @@ Cuaderno NotebookLM ID: `d8e3eb5b-6b2b-400d-9f3d-c48033eacd11`
 |---------|-------|
 | Clases generadas | 2 / 2 |
 | Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Guías de estudio | 2 |
+| Evaluaciones | 1 |
+| Planificaciones | 1 |
 
 ---
 

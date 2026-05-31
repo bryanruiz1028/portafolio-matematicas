@@ -14,11 +14,11 @@ Cuaderno NotebookLM ID: `e78ceb77-ed07-464e-861b-74524edfb278`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | The 8-year-old boy who surprised his teacher with his answer | ⏳ |
-| 2 | Summation - Sigma Notation | Example 1 + Summation - Sigma N | ⏳ |
-| 3 | Summation - Sigma Notation | Applying Properties Example 1 + | ⏳ |
-| 4 | Sum of the first natural numbers + Sum of the first squares  | ⏳ |
-| 5 | Summation of a constant by a variable + Summation of sum or  | ⏳ |
+| [[Clase 01 - El niño de 8 años que sorprendió a su profesor y la introduc|01]] | The 8-year-old boy who surprised his teacher with his answer | ⏳ |
+| [[Clase 02 - Sumatoria y Notación Sigma Aplicación y Resolución de Probl|02]] | Summation - Sigma Notation | Example 1 + Summation - Sigma N | ⏳ |
+| [[Clase 03 - Sumatoria Aplicación de Propiedades (Sigma)|03]] | Summation - Sigma Notation | Applying Properties Example 1 + | ⏳ |
+| [[Clase 04 - Suma de naturales, cuadrados, cubos y constante|04]] | Sum of the first natural numbers + Sum of the first squares  | ⏳ |
+| [[Clase 05 - Propiedades de la Sumatoria Constante, Suma y Cambio de Índ|05]] | Summation of a constant by a variable + Summation of sum or  | ⏳ |
 
 ---
 
@@ -26,11 +26,11 @@ Cuaderno NotebookLM ID: `e78ceb77-ed07-464e-861b-74524edfb278`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
-| Clase 03 | — | — |
-| Clase 04 | — | — |
-| Clase 05 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 El niño de 8 años qu]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Sumatoria y Notación]] |
+| Clase 03 | — | [[📖 Guía de estudio - Clase 03 — 📖 Guía de estudio — Clase 03 Sumatoria y Notación]] |
+| Clase 04 | — | [[📖 Guía de estudio - Clase 04 — 📖 Guía de estudio — Clase 04 Suma de los primeros]] |
+| Clase 05 | — | [[📖 Guía de estudio - Clase 05 — 📖 Guía de estudio — Clase 05 Sumatoria de una con]] |
 
 ---
 
@@ -38,8 +38,8 @@ Cuaderno NotebookLM ID: `e78ceb77-ed07-464e-861b-74524edfb278`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | — | — |
-| Bloque 2 | Clases 3, 4, 5 | — | — |
+| Bloque 1 | Clases 1, 2 | [[📝 Evaluación - Bloque 1 — The 8-year-old boy who surprised his teacher with|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — The 8-year-old boy who surprised his teacher with|📋 Planificación]] |
+| Bloque 2 | Clases 3, 4, 5 | [[📝 Evaluación - Bloque 2 — Summation - Sigma Notation y Summation - Sigma Not|📝 Evaluación]] | [[📋 Planificación - Bloque 2 — Summation - Sigma Notation y Summation - Sigma Not|📋 Planificación]] |
 
 ---
 
@@ -49,9 +49,9 @@ Cuaderno NotebookLM ID: `e78ceb77-ed07-464e-861b-74524edfb278`
 |---------|-------|
 | Clases generadas | 5 / 5 |
 | Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Guías de estudio | 5 |
+| Evaluaciones | 2 |
+| Planificaciones | 2 |
 
 ---
 

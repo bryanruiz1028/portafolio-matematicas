@@ -14,8 +14,8 @@ Cuaderno NotebookLM ID: `6b702553-268d-4102-8b7d-89dc9c11f4d0`
 
 | Clase | Tema | Estado |
 |-------|------|--------|
-| 1 | Quartiles Introduction | What They Are and How to Find Them  | ⏳ |
-| 2 | Cuartiles, Deciles y Percentiles | Datos agrupados en interv | ⏳ |
+| [[Clase 01 - Medidas de Posición Cuartiles, Deciles y Percentiles|01]] | Quartiles Introduction | What They Are and How to Find Them  | ⏳ |
+| [[Clase 02 - Cuartiles, Deciles y Percentiles en Datos Agrupados|02]] | Cuartiles, Deciles y Percentiles | Datos agrupados en interv | ⏳ |
 
 ---
 
@@ -23,8 +23,8 @@ Cuaderno NotebookLM ID: `6b702553-268d-4102-8b7d-89dc9c11f4d0`
 
 | Clase | 📊 Presentación | 📖 Guía de estudio |
 |-------|----------------|-------------------|
-| Clase 01 | — | — |
-| Clase 02 | — | — |
+| Clase 01 | — | [[📖 Guía de estudio - Clase 01 — 📖 Guía de estudio — Clase 01 Introducción a los C]] |
+| Clase 02 | — | [[📖 Guía de estudio - Clase 02 — 📖 Guía de estudio — Clase 02 Cuartiles, Deciles y]] |
 
 ---
 
@@ -32,7 +32,7 @@ Cuaderno NotebookLM ID: `6b702553-268d-4102-8b7d-89dc9c11f4d0`
 
 | Bloque | Clases | Evaluación | Planificación |
 |--------|--------|-----------|--------------|
-| Bloque 1 | Clases 1, 2 | — | — |
+| Bloque 1 | Clases 1, 2 | [[Evaluación - Bloque 1 Quartiles Introduction y Deciles|📝 Evaluación]] | [[📋 Planificación - Bloque 1 — Quartiles Introduction y Deciles|📋 Planificación]] |
 
 ---
 
@@ -42,9 +42,9 @@ Cuaderno NotebookLM ID: `6b702553-268d-4102-8b7d-89dc9c11f4d0`
 |---------|-------|
 | Clases generadas | 2 / 2 |
 | Presentaciones | 0 |
-| Guías de estudio | 0 |
-| Evaluaciones | 0 |
-| Planificaciones | 0 |
+| Guías de estudio | 2 |
+| Evaluaciones | 2 |
+| Planificaciones | 1 |
 
 ---
 
