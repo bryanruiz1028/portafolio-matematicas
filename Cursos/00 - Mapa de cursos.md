@@ -143,7 +143,7 @@ Fuente: [Matemáticas profe Alex — YouTube](https://www.youtube.com/@Matematic
 | #  | Curso | Videos | YouTube | Estado |
 |----|-------|--------|---------|--------|
 | 62 | [[Cursos/Trigonometría/Razones / Funciones trigonométricas/00 - Índice del curso\|Razones / Funciones trigonométricas]] | 40 | [▶ Ver playlist](https://www.youtube.com/playlist?list=PLeySRPnY35dEAIFYvOhtD2cztVuq15qw1) | ⚠️ Sin slides · ✅ 12 clases · ✅ 12 guías · ✅ 3 eval. · ✅ 3 plan. · ⏳ slides pendientes |
-| 63 | Identidades Trigonométricas | 16 | [▶ Ver playlist](https://www.youtube.com/playlist?list=PLeySRPnY35dHK3mo8UWd3zAnYCG13OgAR) | ⏳ Por hacer |
+| 63 | [[Cursos/Trigonometría/Identidades Trigonométricas/00 - Índice del curso\|Identidades Trigonométricas]] | 16 | [▶ Ver playlist](https://www.youtube.com/playlist?list=PLeySRPnY35dHK3mo8UWd3zAnYCG13OgAR) | ⚠️ Sin slides · ✅ 5 clases · ✅ 5 guías · ✅ 2 eval. · ✅ 2 plan. · ⏳ slides pendientes |
 | 64 | Teorema — Ley del seno y coseno | 34 | [▶ Ver playlist](https://www.youtube.com/playlist?list=PLeySRPnY35dHyDHBmOcBaYOKhr6nn2tX-) | ⏳ Por hacer |
 | 65 | Ecuaciones Trigonométricas | 9 | [▶ Ver playlist](https://www.youtube.com/playlist?list=PLeySRPnY35dEmHXbIXk9NjxWA_XzxkyEI) | ⏳ Por hacer |
 
